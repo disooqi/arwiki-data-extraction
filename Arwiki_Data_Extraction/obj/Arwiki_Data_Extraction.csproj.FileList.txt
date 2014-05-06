@@ -1,0 +1,7 @@
+bin\Debug\Arwiki_Data_Extraction.dll
+bin\Debug\Arwiki_Data_Extraction.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Arwiki_Data_Extraction.dll
+obj\Debug\Arwiki_Data_Extraction.pdb
+bin\Debug\Text_Analysis.dll
+bin\Debug\Text_Analysis.pdb

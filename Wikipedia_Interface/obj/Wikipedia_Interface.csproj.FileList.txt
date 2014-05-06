@@ -1,0 +1,12 @@
+bin\Debug\Wikipedia_Interface.exe
+bin\Debug\Wikipedia_Interface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Wikipedia_Interface.Properties.Resources.resources
+obj\Debug\Wikipedia_Interface.csproj.GenerateResource.Cache
+obj\Debug\Wikipedia_Interface.exe
+obj\Debug\Wikipedia_Interface.pdb
+obj\Debug\Wikipedia_Interface.Form1.resources
+bin\Debug\Arwiki_Data_Extraction.dll
+bin\Debug\Arwiki_Data_Extraction.pdb
+bin\Debug\Text_Analysis.dll
+bin\Debug\Text_Analysis.pdb

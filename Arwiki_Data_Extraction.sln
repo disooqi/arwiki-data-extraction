@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arwiki_Data_Extraction", "Arwiki_Data_Extraction\Arwiki_Data_Extraction.csproj", "{7A0AE5C8-9CDB-413E-B0BB-70F951C19D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wikipedia_Interface", "Wikipedia_Interface\Wikipedia_Interface.csproj", "{2F9746F8-C297-4F85-AC1B-9B09326D3822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text_Analysis", "..\..\MasterSW\Personalization\Text_Analysis\Text_Analysis.csproj", "{CCB8ABCC-B8A1-48B4-97BC-74ECF90E3841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0AE5C8-9CDB-413E-B0BB-70F951C19D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0AE5C8-9CDB-413E-B0BB-70F951C19D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0AE5C8-9CDB-413E-B0BB-70F951C19D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0AE5C8-9CDB-413E-B0BB-70F951C19D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9746F8-C297-4F85-AC1B-9B09326D3822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9746F8-C297-4F85-AC1B-9B09326D3822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9746F8-C297-4F85-AC1B-9B09326D3822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9746F8-C297-4F85-AC1B-9B09326D3822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB8ABCC-B8A1-48B4-97BC-74ECF90E3841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB8ABCC-B8A1-48B4-97BC-74ECF90E3841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB8ABCC-B8A1-48B4-97BC-74ECF90E3841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB8ABCC-B8A1-48B4-97BC-74ECF90E3841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
